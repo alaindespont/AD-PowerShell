@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 **Previews Videos**
 
-Découpoer de grandes vidéos en vidéos plus petites, parfait poru reposter sur des réseaux sociaux autres que YouTube
+Découper de grandes vidéos en vidéos plus petites, parfait poru reposter sur des réseaux sociaux autres que YouTube
 
 https://youtu.be/G_kkpy1P2X8
 
