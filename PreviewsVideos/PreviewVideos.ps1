@@ -2,7 +2,7 @@
 ########################################################################################################################
 ########################################################################################################################
 ###### Créé par : Alain Philip Despont
-###### Dernière mise à jour : 21.11.2020
+###### Dernière mise à jour : 07.01.2021
 ###### But du script : Créer des vidéos raccourcies pour les réseaux sociaux, en découpant des vidéos existantes.
 ###### Logiciels additionnels : ffmpeg
 ###### Notes : Get-Location fait que le script ne peut pas être executé via ISE, il faut l'executer dans le dossier contenant les vidéos.
