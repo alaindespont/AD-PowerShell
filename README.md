@@ -18,3 +18,11 @@ Découper de grandes vidéos en vidéos plus petites, parfait pour reposter sur 
 https://youtu.be/G_kkpy1P2X8
 
 __________________________________________________________________________________________________
+
+**Backup to USB**
+
+Copie des fichiers sur une clé USB même si elel change de lettre de lecteur
+
+https://youtu.be/CuYr3vAgQeE
+
+__________________________________________________________________________________________________
